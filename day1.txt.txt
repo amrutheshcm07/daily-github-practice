@@ -1,0 +1,5 @@
+Day 1 – GitHub Start
+
+- Created my first GitHub repository
+- Learned what Git and GitHub are
+- Started my daily GitHub activity
