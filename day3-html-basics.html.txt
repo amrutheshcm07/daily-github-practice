@@ -11,6 +11,7 @@
         This is my Day 3 learning.
         Today I created my first HTML page and pushed it to GitHub.
     </p>
+<p>This page was tested successfully in the browser.</p>
 
 </body>
 </html>
