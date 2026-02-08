@@ -1,0 +1,8 @@
+# Day 2 – Git & GitHub
+
+Today I learned:
+- How git status works
+- How git add stages files
+- How git commit saves changes
+- How git push uploads to GitHub
+- How to check my daily activity

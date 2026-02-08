@@ -1,6 +1,0 @@
-Day 2 – Git & GitHub Learning
-
-- Learned what git status does
-- Learned how git add . works
-- Understood commit and push
-- Learned when to use git pull
