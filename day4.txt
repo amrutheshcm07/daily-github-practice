@@ -1,0 +1,12 @@
+# Daily GitHub Practice
+
+This repository contains my daily learning progress with Git, GitHub, HTML, and CSS.
+
+## Learning Progress
+- Day 1: Git basics and first push
+- Day 2: Git commands and workflow
+- Day 3: HTML and CSS basics
+- Day 4: README documentation and GitHub understanding
+
+## Goal
+To build consistency by pushing code and updates daily to GitHub.
